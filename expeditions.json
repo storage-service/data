@@ -1,0 +1,42 @@
+[
+  { 
+    "name": "Anteraja", 
+    "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1778236802/general/logo/lidaejvolekvgdoswcfd.png" 
+  },
+  { 
+    "name": "Gosend", 
+    "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1778339537/general/logo/px9tk7s47frenb3fxkjw.png" 
+  },
+  { 
+    "name": "Grab", 
+    "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1769151904/general/logo/aw3zjhhijmmnvjkgaws1.svg" 
+  },
+  { 
+    "name": "J&T Express", 
+    "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1769151904/general/logo/nqo2amxpfg2mhelcseqt.svg" 
+  },
+  { 
+    "name": "JNE", 
+    "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1769152187/general/logo/rl6akethuu742sry0io7.png" 
+  },
+  { 
+    "name": "Lion Parcel", 
+    "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1778236802/general/logo/ofv2pughen4lfw7fryiz.png" 
+  },
+  { 
+    "name": "Paxel", 
+    "logo": "" 
+  },
+  { 
+    "name": "POS Indonesia", 
+    "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1778236802/general/logo/bdvacatcflngtzegmimo.png" 
+  }
+  { 
+    "name": "Sicepat", 
+    "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1778339537/general/logo/rncwjotpbgwoawt3dxzh.png" 
+  },
+  { 
+    "name": "SPX", 
+    "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1778236803/general/logo/eyfx326ibo7t9mokuuni.png" 
+  }
+]
