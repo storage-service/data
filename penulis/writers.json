@@ -10,5 +10,9 @@
 {
 "nama": "Awan Gunawan",
 "linkRef": ["https://raw.githubusercontent.com/storage-service/data/refs/heads/main/penulis/awan-gunawan/awan-gunawan-1.txt","https://raw.githubusercontent.com/storage-service/data/refs/heads/main/penulis/awan-gunawan/awan-gunawan-2.txt"]
+},
+{
+"nama": "Mimi Hilzah",
+"linkRef": ["https://raw.githubusercontent.com/storage-service/data/refs/heads/main/penulis/mimi-hilzah/mimi-hilzah-1.txt","https://raw.githubusercontent.com/storage-service/data/refs/heads/main/penulis/mimi-hilzah/mimi-hilzah-2.txt"]
 }
 ]
