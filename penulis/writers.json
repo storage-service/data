@@ -2,5 +2,9 @@
 {
 "nama": "Arham Rasyid",
 "linkRef": "https://raw.githubusercontent.com/storage-service/data/refs/heads/main/penulis/arham-rasyid.txt"
+},
+{
+"nama": "Christina Lie",
+"linkRef": ["https://raw.githubusercontent.com/storage-service/data/refs/heads/main/penulis/christina-lie-1.txt","https://raw.githubusercontent.com/storage-service/data/refs/heads/main/penulis/christina-lie-2.txt"]
 }
 ]
