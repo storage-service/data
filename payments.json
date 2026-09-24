@@ -1,21 +1,26 @@
 [
   { 
-    "name": "QRIS", 
+    "code": "qris",
+    "name": "QRIS",
     "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1769151050/general/logo/bank/v3noj7owpupammou8pnl.svg" 
   },
   { 
+    "code": "bank-bca",
     "name": "Bank BCA", 
     "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1769151052/general/logo/bank/uqnzusudosxi8yxqq7wp.svg" 
   },
   { 
+    "code": "bank-bri",
     "name": "Bank BRI", 
     "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1769151050/general/logo/bank/tbalsfewgpemm0fvfnll.svg" 
   },
   { 
+    "code": "bank-bni",
     "name": "Bank BNI", 
     "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1773242286/general/logo/bank/fcxv6kkhhlloidvcjuvx.png" 
   },
   { 
+    "code": "bank-mandiri",
     "name": "Bank Mandiri", 
     "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1773242509/general/logo/bank/brinidj6o1hi3zza55bv.png" 
   }
