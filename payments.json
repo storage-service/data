@@ -1,27 +1,32 @@
 [
   { 
     "code": "qris",
+    "category": "QRIS",
     "name": "QRIS",
     "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1769151050/general/logo/bank/v3noj7owpupammou8pnl.svg" 
   },
   { 
-    "code": "bank-bca",
+    "code": "bca",
+    "category": "Bank Transfer",
     "name": "Bank BCA", 
     "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1769151052/general/logo/bank/uqnzusudosxi8yxqq7wp.svg" 
   },
   { 
-    "code": "bank-bri",
-    "name": "Bank BRI", 
+    "code": "bri",
+    "category": "Bank Transfer",
+    "name": "Bank BRI",
     "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1769151050/general/logo/bank/tbalsfewgpemm0fvfnll.svg" 
   },
   { 
-    "code": "bank-bni",
+    "code": "bni",
+    "category": "Bank Transfer",
     "name": "Bank BNI", 
     "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1773242286/general/logo/bank/fcxv6kkhhlloidvcjuvx.png" 
   },
   { 
-    "code": "bank-mandiri",
-    "name": "Bank Mandiri", 
+    "code": "mandiri",
+    "category": "Bank Transfer",
+    "name": "Bank Mandiri",
     "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1773242509/general/logo/bank/brinidj6o1hi3zza55bv.png" 
   }
 ]
