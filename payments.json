@@ -1,7 +1,7 @@
 [
   { 
     "code": "qris",
-    "category": "QRIS",
+    "category": "Instan Pay",
     "name": "QRIS",
     "logo": "https://res.cloudinary.com/image-cloudinary/image/upload/v1769151050/general/logo/bank/v3noj7owpupammou8pnl.svg" 
   },
