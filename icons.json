@@ -208,5 +208,11 @@
         "iconKey": "youtube",
         "type": "image",
         "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1791653800/general/icon/r8udecskasaxdho0vqp7.svg"
+    },
+    {
+        "name": "YouTube Black",
+        "iconKey": "youtube-black",
+        "type": "image",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1791655616/general/icon/pthgdwxurbmq5umuwr1p.svg"
     }
 ]
