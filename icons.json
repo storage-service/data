@@ -1,290 +1,212 @@
 [
-{
-"name": "WhatsApp",
-"iconKey": "whatsapp",
-"type": "image",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
-},
-{
-"name": "Telegram",
-"iconKey": "telegram",
-"type": "image",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
-},
-{
-"name": "Instagram",
-"iconKey": "instagram",
-"type": "image",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"
-},
-{
-"name": "TikTok",
-"iconKey": "tiktok",
-"type": "image",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg"
-},
-{
-"name": "YouTube",
-"iconKey": "youtube",
-"type": "image",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg"
-},
-{
-"name": "Facebook",
-"iconKey": "facebook",
-"type": "image",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png"
-},
-{
-"name": "Messenger",
-"iconKey": "messenger",
-"type": "image",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Facebook_Messenger_logo_2020.svg"
-},
-{
-"name": "Twitter / X",
-"iconKey": "twitter",
-"type": "image",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg"
-},
-{
-"name": "Threads",
-"iconKey": "threads",
-"type": "image",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Threads_%28app%29_logo.svg"
-},
-{
-"name": "LinkedIn",
-"iconKey": "linkedin",
-"type": "image",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"
-},
-{
-"name": "Discord",
-"iconKey": "discord",
-"type": "image",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/id/3/36/Discord_logo_2021.svg"
-},
-{
-"name": "GitHub",
-"iconKey": "github",
-"type": "image",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
-},
-{
-"name": "Pinterest",
-"iconKey": "pinterest",
-"type": "image",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png"
-},
-{
-"name": "Shopee",
-"iconKey": "shopee",
-"type": "image",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Shopee.svg"
-},
-{
-"name": "Tokopedia",
-"iconKey": "tokopedia",
-"type": "image",
-"imageUrl": "https://assets.tokopedia.net/assets-tokopedia-lite/v2/zeus/kratos/662058e5.png"
-},
-{
-"name": "Lazada",
-"iconKey": "lazada",
-"type": "image",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Lazada_%282019%29.svg"
-},
-{
-"name": "Blibli",
-"iconKey": "blibli",
-"type": "image",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Logo_Blibli.svg"
-},
-{
-"name": "Bukalapak",
-"iconKey": "bukalapak",
-"type": "image",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Bukalapak_logo_2020.svg"
-},
-{
-"name": "TikTok Shop",
-"iconKey": "tiktok-shop",
-"type": "image",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg"
-},
-{
-"name": "Figma",
-"iconKey": "figma",
-"type": "image",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"
-},
-{
-"name": "Adobe Photoshop",
-"iconKey": "photoshop",
-"type": "image",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"
-},
-{
-"name": "Adobe Illustrator",
-"iconKey": "illustrator",
-"type": "image",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg"
-},
-{
-"name": "Canva",
-"iconKey": "canva",
-"type": "image",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg"
-},
-{
-"name": "Behance",
-"iconKey": "behance",
-"type": "image",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Behance_logo.svg"
-},
-{
-"name": "Dribbble",
-"iconKey": "dribbble",
-"type": "image",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Dribbble_logo.svg"
-},
-{
-"name": "QRIS",
-"iconKey": "qris",
-"type": "image",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Logo_QRIS.svg"
-},
-{
-"name": "GoPay",
-"iconKey": "gopay",
-"type": "image",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Gopay_logo.svg"
-},
-{
-"name": "OVO",
-"iconKey": "ovo",
-"type": "image",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_ovo_purple.svg"
-},
-{
-"name": "DANA",
-"iconKey": "dana",
-"type": "image",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Logo_dana_blue.svg"
-},
-{
-"name": "BCA",
-"iconKey": "bca",
-"type": "image",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bank_Central_Asia.svg"
-},
-{
-"name": "Bank Mandiri",
-"iconKey": "mandiri",
-"type": "image",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Bank_Mandiri_logo_2016.svg"
-},
-{
-"name": "Bank BRI",
-"iconKey": "bri",
-"type": "image",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/BANK_BRI_logo.svg"
-},
-{
-"name": "Bank BNI",
-"iconKey": "bni",
-"type": "image",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/id/5/55/BNI_logo.svg"
-},
-{
-"name": "PayPal",
-"iconKey": "paypal",
-"type": "image",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg"
-},
-{
-"name": "Tautan Umum",
-"iconKey": "link",
-"type": "lucide",
-"imageUrl": ""
-},
-{
-"name": "Email / Surat",
-"iconKey": "mail",
-"type": "lucide",
-"imageUrl": ""
-},
-{
-"name": "Telepon",
-"iconKey": "phone",
-"type": "lucide",
-"imageUrl": ""
-},
-{
-"name": "Situs Web",
-"iconKey": "globe",
-"type": "lucide",
-"imageUrl": ""
-},
-{
-"name": "Lokasi / Peta",
-"iconKey": "map-pin",
-"type": "lucide",
-"imageUrl": ""
-},
-{
-"name": "Toko / Belanja",
-"iconKey": "shopping-bag",
-"type": "lucide",
-"imageUrl": ""
-},
-{
-"name": "Keranjang Belanja",
-"iconKey": "shopping-cart",
-"type": "lucide",
-"imageUrl": ""
-},
-{
-"name": "Dokumen / Katalog",
-"iconKey": "file-text",
-"type": "lucide",
-"imageUrl": ""
-},
-{
-"name": "Buku / E-Book",
-"iconKey": "book-open",
-"type": "lucide",
-"imageUrl": ""
-},
-{
-"name": "Video / Kursus",
-"iconKey": "play-circle",
-"type": "lucide",
-"imageUrl": ""
-},
-{
-"name": "Podcast / Audio",
-"iconKey": "headphones",
-"type": "lucide",
-"imageUrl": ""
-},
-{
-"name": "Unduh / Download",
-"iconKey": "download",
-"type": "lucide",
-"imageUrl": ""
-},
-{
-"name": "Bintang / Portofolio",
-"iconKey": "star",
-"type": "lucide",
-"imageUrl": ""
-},
-{
-"name": "Jadwal / Kalender",
-"iconKey": "calendar",
-"type": "lucide",
-"imageUrl": ""
-}
+    {
+        "name": "Adobe Illustrator",
+        "iconKey": "illustrator",
+        "type": "image",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1791653805/general/icon/d0klqkcoyxaaauswm98n.svg"
+    },
+    {
+        "name": "Adobe Photoshop",
+        "iconKey": "photoshop",
+        "type": "image",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1791653805/general/icon/c3n2cqx2ws0crqg2scal.svg"
+    },
+    {
+        "name": "Bintang / Portofolio",
+        "iconKey": "star",
+        "type": "lucide",
+        "imageUrl": ""
+    },
+    {
+        "name": "Buku / E-Book",
+        "iconKey": "book-open",
+        "type": "lucide",
+        "imageUrl": ""
+    },
+    {
+        "name": "Dokumen / Katalog",
+        "iconKey": "file-text",
+        "type": "lucide",
+        "imageUrl": ""
+    },
+    {
+        "name": "Email / Surat",
+        "iconKey": "mail",
+        "type": "lucide",
+        "imageUrl": ""
+    },
+    {
+        "name": "Facebook",
+        "iconKey": "facebook",
+        "type": "image",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1791649813/general/icon/unrsterszwmsxtqtsv6x.svg"
+    },
+    {
+        "name": "Facebook Black",
+        "iconKey": "facebook-black",
+        "type": "image",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1791653801/general/icon/ydbdbbolaiclaa24iczo.png"
+    },
+    {
+        "name": "Figma",
+        "iconKey": "figma",
+        "type": "image",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1791653805/general/icon/kzcgwcot3wymahkghbfm.svg"
+    },
+    {
+        "name": "GitHub",
+        "iconKey": "github",
+        "type": "image",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1791653804/general/icon/ccfomualcfq7widkxrxy.svg"
+    },
+    {
+        "name": "Instagram",
+        "iconKey": "instagram",
+        "type": "image",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1791653803/general/icon/a2cw08cau23zs0fssuim.svg"
+    },
+    {
+        "name": "Instagram Black",
+        "iconKey": "instagram-black",
+        "type": "image",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1791653806/general/icon/dq8383fy7ocr4ati2ake.svg"
+    },
+    {
+        "name": "Jadwal / Kalender",
+        "iconKey": "calendar",
+        "type": "lucide",
+        "imageUrl": ""
+    },
+    {
+        "name": "Keranjang Belanja",
+        "iconKey": "shopping-cart",
+        "type": "lucide",
+        "imageUrl": ""
+    },
+    {
+        "name": "LinkedIn",
+        "iconKey": "linkedin",
+        "type": "image",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1791653804/general/icon/e0rzjq4niqre5z5vih0u.svg"
+    },
+    {
+        "name": "Lokasi / Peta",
+        "iconKey": "map-pin",
+        "type": "lucide",
+        "imageUrl": ""
+    },
+    {
+        "name": "Messenger",
+        "iconKey": "messenger",
+        "type": "image",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1791654454/general/icon/qxnivgt0dmfrj7cipdkt.svg"
+    },
+    {
+        "name": "Podcast / Audio",
+        "iconKey": "headphones",
+        "type": "lucide",
+        "imageUrl": ""
+    },
+    {
+        "name": "Shopee",
+        "iconKey": "shopee",
+        "type": "image",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1791653803/general/icon/mm70mykebo6ofadjhwlj.png"
+    },
+    {
+        "name": "Situs Web",
+        "iconKey": "globe",
+        "type": "lucide",
+        "imageUrl": ""
+    },
+    {
+        "name": "Tautan Umum",
+        "iconKey": "link",
+        "type": "lucide",
+        "imageUrl": ""
+    },
+    {
+        "name": "Telegram",
+        "iconKey": "telegram",
+        "type": "image",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1791653802/general/icon/gw3x3b1kfmae28ldjrib.svg"
+    },
+    {
+        "name": "Telepon",
+        "iconKey": "phone",
+        "type": "lucide",
+        "imageUrl": ""
+    },
+    {
+        "name": "Threads",
+        "iconKey": "threads",
+        "type": "image",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1791653800/general/icon/pwqxhszuvufodhi10mz9.svg"
+    },
+    {
+        "name": "TikTok",
+        "iconKey": "tiktok",
+        "type": "image",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1769154437/general/icon/phfyvvjjosbkzcy3kwrh.png"
+    },
+    {
+        "name": "TikTok Black",
+        "iconKey": "tiktok-black",
+        "type": "image",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1769163143/general/icon/wf2bn8oam5lobmqzsxlx.png"
+    },
+    {
+        "name": "TikTok Shop",
+        "iconKey": "tiktok-shop",
+        "type": "image",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1791653801/general/icon/lueuzwacgf4b4xdoppse.png"
+    },
+    {
+        "name": "Toko / Belanja",
+        "iconKey": "shopping-bag",
+        "type": "lucide",
+        "imageUrl": ""
+    },
+    {
+        "name": "Tokopedia",
+        "iconKey": "tokopedia",
+        "type": "image",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1791653802/general/icon/mlvnm3fqtwrtekrudgxy.svg"
+    },
+    {
+        "name": "X",
+        "iconKey": "x",
+        "type": "image",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1791653800/general/icon/zcxxkhrbzbrhactt4vqn.svg"
+    },
+    {
+        "name": "Unduh / Download",
+        "iconKey": "download",
+        "type": "lucide",
+        "imageUrl": ""
+    },
+    {
+        "name": "Video / Kursus",
+        "iconKey": "play-circle",
+        "type": "lucide",
+        "imageUrl": ""
+    },
+    {
+        "name": "WhatsApp",
+        "iconKey": "whatsapp",
+        "type": "image",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1791653800/general/icon/jykj3mjggrzwwci0sqew.svg"
+    },
+    {
+        "name": "WhatsApp Black",
+        "iconKey": "whatsapp-black",
+        "type": "image",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1791654053/general/icon/c4pydnmk4cdknvtvp8m7.png"
+    },
+    {
+        "name": "YouTube",
+        "iconKey": "youtube",
+        "type": "image",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1791653800/general/icon/r8udecskasaxdho0vqp7.svg"
+    }
 ]
