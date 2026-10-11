@@ -30,6 +30,12 @@
         "imageUrl": ""
     },
     {
+        "name": "Dompet / Bayar",
+        "iconKey": "wallet",
+        "type": "lucide",
+        "imageUrl": ""
+    },
+    {
         "name": "Email / Surat",
         "iconKey": "mail",
         "type": "lucide",
