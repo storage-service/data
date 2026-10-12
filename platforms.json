@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Email Marketing",
+        "slug": "email-marketing",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1791798196/general/icon/ohfmpkcjj0cabgovjm5g.svg"
+    },
+    {
+        "name": "Facebook",
+        "slug": "facebook",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1791649813/general/icon/unrsterszwmsxtqtsv6x.svg"
+    },
+    {
+        "name": "Google",
+        "slug": "google",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1791798197/general/icon/ybggxubnz4v28w8uxcno.svg"
+    },
+    {
+        "name": "Instagram",
+        "slug": "instagram",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1791653803/general/icon/a2cw08cau23zs0fssuim.svg"
+    },
+    {
+        "name": "Messenger",
+        "slug": "messenger",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1791654454/general/icon/qxnivgt0dmfrj7cipdkt.svg"
+    },
+    {
+        "name": "Pinterest",
+        "slug": "pinterest",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1791798197/general/icon/sibdiqfdrvkyha8zt54d.svg"
+    },
+    {
+        "name": "Telegram",
+        "slug": "telegram",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1791653802/general/icon/gw3x3b1kfmae28ldjrib.svg"
+    },
+    {
+        "name": "Threads",
+        "slug": "threads",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1791653800/general/icon/pwqxhszuvufodhi10mz9.svg"
+    },
+    {
+        "name": "TikTok",
+        "slug": "tiktok",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1769154437/general/icon/phfyvvjjosbkzcy3kwrh.png"
+    },
+    {
+        "name": "X",
+        "slug": "x",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1791653800/general/icon/zcxxkhrbzbrhactt4vqn.svg"
+    },
+    {
+        "name": "Website",
+        "slug": "website",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1791798196/general/icon/wbsz3qdu9au3zksbtgbj.svg"
+    },
+    {
+        "name": "WhatsApp",
+        "slug": "whatsapp",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1791653800/general/icon/jykj3mjggrzwwci0sqew.svg"
+    },
+    {
+        "name": "YouTube",
+        "slug": "youtube",
+        "imageUrl": "https://res.cloudinary.com/image-cloudinary/image/upload/v1791653800/general/icon/r8udecskasaxdho0vqp7.svg"
+    }
+]
