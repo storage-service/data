@@ -126,6 +126,12 @@
         "imageUrl": ""
     },
     {
+        "name": "Store",
+        "iconKey": "store",
+        "type": "lucide",
+        "imageUrl": ""
+    },
+    {
         "name": "Tautan Umum",
         "iconKey": "link",
         "type": "lucide",
